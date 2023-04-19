@@ -21,10 +21,10 @@
   
   
   "main_inter": true,
-  "os_inter": false,
-  "gender_inter": false,
+  "os_inter": true,
+  "gender_inter": true,
   "age_inter": true,
-  "setup_inter": false,
+  "setup_inter": true,
   
   "rate": true,
   
